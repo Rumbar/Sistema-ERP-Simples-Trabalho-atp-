@@ -1,0 +1,4 @@
+ProdutoA 0
+ProdutoB 0
+ProdutoC 2
+ProdutoD 0

@@ -1,0 +1,4 @@
+ProdutoA 0
+ProdutoB 150
+ProdutoC 200
+ProdutoD 250

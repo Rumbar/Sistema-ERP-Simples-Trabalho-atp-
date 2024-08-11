@@ -1,0 +1,14 @@
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\bin\Debug\net8.0\Trabalho final atp.exe
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\bin\Debug\net8.0\Trabalho final atp.deps.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\bin\Debug\net8.0\Trabalho final atp.runtimeconfig.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\bin\Debug\net8.0\Trabalho final atp.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\bin\Debug\net8.0\Trabalho final atp.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\Trabalho final atp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\Trabalho final atp.AssemblyInfoInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\Trabalho final atp.AssemblyInfo.cs
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\Trabalho final atp.csproj.CoreCompileInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\Trabalho final atp.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\refint\Trabalho final atp.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\Trabalho final atp.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\Trabalho final atp.genruntimeconfig.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Trabalho final atp\obj\Debug\net8.0\ref\Trabalho final atp.dll
